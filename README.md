@@ -1,4 +1,3 @@
----
 # Flink Fraud Detection with DataStream API
 This repository consists of a **fraud detection system** that alerts on suspicious credit card transactions. Using a simple set of rules, it demonstrates how **Apache Flink** can implement advanced business logic and react in **real-time**.
 
