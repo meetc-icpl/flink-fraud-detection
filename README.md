@@ -1,5 +1,3 @@
-Here’s your updated and properly structured Markdown (`.md`) content with clear step-by-step setup instructions, incorporating the **local Flink installation guide** you provided:
-
 ---
 
 # Flink Fraud Detection with DataStream API
@@ -101,5 +99,3 @@ Assuming you're in the `flink-1.13.6` directory and the `frauddetection-0.1.jar`
 ```
 
 ---
-
-Let me know if you also want a Docker-based installation added as Option B.
